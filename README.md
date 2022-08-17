@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -28,3 +29,7 @@ npm start
 ## Server
 
 Repository : [Pharmacy Server](https://github.com/AnujSharma141/PharmacyBackend)
+=======
+# PharmacyClient
+FRONT END COMPONENTS FOR FERN STACK APP TO CREATE DASHBOARDS FROM PHARMACY DATA
+>>>>>>> e2f560cd9823d0e154fbc3f41fab81ef74122c06
